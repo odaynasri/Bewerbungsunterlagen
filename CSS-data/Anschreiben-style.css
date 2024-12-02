@@ -1,0 +1,68 @@
+::selection {
+    background-color: #535353;
+    color: rgb(255, 255, 255);
+}
+body {
+    background-color: #e5dbd2;
+    background-image: url(Images/ON-logo3.png);
+    background-position: 100% 255%;
+    background-size: 860px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.Kontakt-info {
+    text-align: center;
+    color: black;
+}
+.Kontakt-info .p3,
+.p4,
+.p5 {
+    color: #a39595;
+    line-height: 4px;
+}
+.Firma-adresse {
+    line-height: 4px;
+    text-indent: 50px;
+    margin-left: 230px;
+}
+.Firma-adresse .p6 {
+    margin-left: 45%;
+    top: 180px;
+    position: absolute;
+    text-align: right;
+}
+.title-anschreiben .p7 {
+    color: #9e9e9e;
+    text-indent: 50px;
+    margin-left: 230px;
+}
+.Begrüßung .p8 {
+    text-indent: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 230px;
+}
+.Anschreiben-body1 .p9,
+.p10,
+.p11,
+.p12,
+.p13,
+.p14,
+.p15 {
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+.Anschreiben-Ende .p16 {
+    font-family: "Bonheur Royale", cursive;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 500%;
+    margin-left: 30px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 270px;
+}
